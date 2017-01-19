@@ -1,3 +1,9 @@
+#@Author Luke McCann - 09/01/2017
+#If anybody wants to use this file feel free, had I had more time the code would be better set out, for instance I would have used
+#an array to hold the GPIO inputs, this was my first time using Python and programming for input and output, I had a week to complete
+#this and kept it as simple as possible, if anyone wishes to improve on this program or use it for their own project please do so
+#just leave the author comment in tact, thank you!
+
 import RPi.GPIO as GPIO
 import time
 
